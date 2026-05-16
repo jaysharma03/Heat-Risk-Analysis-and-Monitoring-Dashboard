@@ -77,7 +77,9 @@ This project provides a smart monitoring solution to:
 ---
 
 ## 📷 Dashboard Preview
-[View Power BI Dashboard Here](https://github.com/jaysharma03/Heat-Risk-Analysis-and-Monitoring-Dashboard/blob/9a68bdc0fc90ec1a7172a86fe9ead549e4974d18/Heat%20Risk%20Analysis%20and%20Monitoring%20Dashboard.JPG)
+## 📷 Dashboard Preview
+
+![Heat Risk Analysis Dashboard](https://github.com/jaysharma03/Heat-Risk-Analysis-and-Monitoring-Dashboard/blob/main/Heat%20Risk%20Analysis%20and%20Monitoring%20Dashboard.JPG?raw=true)
 
 ---
 
